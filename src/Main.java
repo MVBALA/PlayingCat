@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+      PlayingCat.isCatPlaying(true,30);
+      PlayingCat.isCatPlaying(false,40);
     }
 }
